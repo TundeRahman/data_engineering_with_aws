@@ -27,4 +27,6 @@ JOIN items_purchased i
 ON   i.customer_id = b.customer_id
 WHERE b.spent > 30;
 
+-- Query 2: How much did Customer 2 spend?
+
 
